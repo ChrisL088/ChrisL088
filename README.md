@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on developing a deeplearning regression model for IBM
+🔭 I’m currently working on developing a chatbot using nlp spaCy for Cognos Analytics at IBM
 
 <!--
 **ChrisL088/ChrisL088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
